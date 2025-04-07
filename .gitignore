@@ -1,0 +1,6 @@
+ollama/
+**/__pycache__/*
+env/
+.env
+.env
+**/__pycache__/*

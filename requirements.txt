@@ -1,0 +1,27 @@
+# py -m venv env
+# env/Scripts/activate
+# pip install aiogram
+# pip install python-dotenv 
+# pip install jupyterlab
+# pip install langchain pandas tiktoken huggingface_hub
+# pip install -U langchain-community
+# pip install faiss-cpu
+# pip install aiogram pandas 
+# pip install langchain_ollama
+# ollama pull mxbai-embed-large
+# ollama pull llama3.2:3b
+# ollama list
+
+# pip install pytesseract    для обработки фото
+# pip install Pillow   для обработки фото
+# С гитхаба скачать rus.traineddata и закинуть в C:\Program Files\Tesseract-OCR\tessdata чтобы он обрабатывал изображение в текст на русском языке.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
